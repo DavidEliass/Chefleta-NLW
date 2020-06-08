@@ -1,4 +1,4 @@
-<h1 align="center"><img width="300px" src="https://github.com/CenourinhaBR/Ecoleta-NLW/blob/master/public/assets/chef.svg" alt="Ecoleta" /></h1>
+<h1 align="center"><img width="250px" src="https://github.com/CenourinhaBR/Ecoleta-NLW/blob/master/public/assets/chef.svg" alt="Ecoleta" /></h1>
 
 <img src="https://github.com/CenourinhaBR/Ecoleta-NLW/blob/master/Media/HOME.png">
 
