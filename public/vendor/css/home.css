@@ -2,6 +2,7 @@
     height: 100vh;
     background: url(../../assets/home-background.svg) no-repeat;
     background-position: 35vw bottom;
+    background-size: 755px auto;
 }
 
 #pagehome header {
@@ -34,7 +35,6 @@
     display: flex;
     margin-right: 16px;
     background-image: url(../../assets/log-in.svg);
-
     width: 20px;
     height: 20px;
 }
@@ -78,7 +78,7 @@
 }
 
 #pagehome main a:hover{
-  background-color: #2fb86e;
+  background-color: #df1839;
 }
 
 #pagehome main a span{
@@ -97,6 +97,7 @@
    background-image: url('../../assets/search.svg');
    width: 20px;
    height: 20px;
+
 }
 
 #pagehome main a strong{
@@ -104,3 +105,5 @@
     color: white;
     text-align: center;
  }
+
+ 

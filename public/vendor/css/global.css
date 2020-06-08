@@ -2,9 +2,10 @@
 
 
 :root {
-    --title-color: #322153; 
-    --primary-color: #34cb79;
+    --title-color: #98222d; 
+    --primary-color: #E02041;
     --secundary-color: #f0f0f5;
+    --hover-color: rgb(221, 50, 79);
 }
 
 * {
@@ -35,8 +36,10 @@ a {
 
 
 
-
-
+#logo {
+    height: 70px;
+    width: 160px;
+}
  
 
 

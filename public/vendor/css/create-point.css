@@ -119,6 +119,20 @@ form button:hover {
     background-color: #2fb86e;
 }
 
+
+
+form label a {
+    background-image: url("../../assets/info.svg") ;
+    height: 15px;
+    width: 43px;
+    position: absolute;
+    width: 40px;
+    color: var(--primary-color);
+    background-repeat: no-repeat;
+    margin-left: 10px;
+}
+
+
 .items-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -160,4 +174,9 @@ form button:hover {
 .items-grid li img,
 .items-grid li span {
     pointer-events: none;
+}
+
+.grid-icon {
+    height: 70px;
+    width: 70px;
 }

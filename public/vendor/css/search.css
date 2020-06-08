@@ -1,3 +1,11 @@
+#page-search-result .card a span::after {
+    content: "";
+    background-image: url(../../assets/whatsapp.svg);
+    width: 20px;
+    height: 20px;
+    color: #fff;
+}
+
 body::after {
     content: "";
     position: absolute;
@@ -75,7 +83,7 @@ main .card img {
 main .card h1 {
  font-size: 36px;
  line-height: 41px;
- color: #322153;
+ color: #8c0f1b;
  margin-top: 32px;
 
 }
@@ -87,7 +95,7 @@ main .card h3 {
     line-height: 34px;
 
     color: var(--primary-color);
-    margin-top: 24px 0;
+    margin-top: 16px;
 }
 
 main .card p {
@@ -98,5 +106,28 @@ main .card p {
 }
 
 
+main .card a {
+    width: 100%;
+    max-width: 360px;
+    margin-top: 9px;
+    height: 77px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    background: var(--primary-color);
+    transition: 400ms;
+    color: white;
+    text-align: center;
+    
+}
 
-
+main .card span {
+    width: 72px;
+    height: 75px;
+    background-color: rgba(0, 0, 0, 0.08);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
