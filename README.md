@@ -1,4 +1,6 @@
-<h1 align="center"><img width="300px" src="https://github.com/CenourinhaBR/Ecoleta-NLW/blob/master/public/assets/logo.svg" alt="Ecoleta" /></h1>
+<h1 align="center"><img width="300px" src="https://github.com/CenourinhaBR/Ecoleta-NLW/blob/master/public/assets/chef.svg" alt="Ecoleta" /></h1>
+
+<img src="https://github.com/CenourinhaBR/Ecoleta-NLW/blob/master/Media/HOME.png">
 
 <h2>ℹ️ Sobre o projeto</h2>
 
@@ -16,17 +18,17 @@ O ecoleta é um marketplace onde é possivel gerenciar pontos de coletas de cole
 <h3>📌 Como instalar e usar</h3>
 
 ```bash
-#Clone the repository
+#Clonar repositorio
 $ git clone https://github.com/CenourinhaBR/Ecoleta-NLW.git
 
-#Enter the repository folder
+#Entra na pasta do repositorio
 $ cd ecoletaNLW
 
-#Install the dependencies
+#Instalar dependências
 $ npm install
 
-#Run the application
+#Rodar aplicação
 $ npm start
 
-#Open in http://localhost:3000/
+#Abra em seu navegador: http://localhost:3000/
 ```
