@@ -1,11 +1,11 @@
 <h1 align="center"><img width="300px" src="https://github.com/CenourinhaBR/Ecoleta-NLW/blob/master/public/assets/logo.svg" alt="Ecoleta" /></h1>
 
-<h2>Sobre o projeto</h2>
+<h2>ℹ️ Sobre o projeto</h2>
 
 O ecoleta é um marketplace onde é possivel gerenciar pontos de coletas de coleta de lixo nas cidades, de maneira eficiente e simples
 
 
-<h2>Tecnologias Usadas</h2>
+<h2>🚀Tecnologias Usadas</h2>
 
 - HTML
 - CSS
@@ -13,7 +13,7 @@ O ecoleta é um marketplace onde é possivel gerenciar pontos de coletas de cole
 - Nodejs
 - Sqlite 3
 
-<h3>Como instalar e usar</h3>
+<h3>📌 Como instalar e usar</h3>
 
 ```bash
 #Clone the repository
